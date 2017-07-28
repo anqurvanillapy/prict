@@ -2,7 +2,7 @@
 
 **NOTE:** Exercise code.
 
-A minimal persistent key-value store that backed by Raft algorithms.
+A minimal persistent key-value store backed by Raft algorithms.
 
 ## License
 
